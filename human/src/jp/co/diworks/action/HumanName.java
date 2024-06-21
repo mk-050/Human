@@ -3,7 +3,7 @@ package jp.co.diworks.action;
 public class HumanName {
 	
 	private String firstName;
-	public String lastName;
+    private String lastName;
 	
 	
 	public String getName() {
